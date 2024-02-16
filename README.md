@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mtoha2013
 - 👀 I’m interested in Programming / Database Design
 - 🌱 I’m currently learning Docker
-- 💞️ I’m also learn non technical like DFD, ERD, and UML at past
+- 💞️ I’m also learn non technical like Data Flow Diagram, Entity Relational Diagram, and Unified Modeling Language at past
 - 📫 How to reach me on linked in https://www.linkedin.com/in/mtoha2013
 
 <!---
